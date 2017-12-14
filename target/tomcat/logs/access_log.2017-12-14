@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [14/Dec/2017:19:48:54 +0800] "GET /wangproject/ HTTP/1.1" 200 57 http-bio-8080-exec-1 812
+59.69.165.80 - - [14/Dec/2017:19:49:04 +0800] "GET /wangproject/ HTTP/1.1" 200 57 http-bio-8080-exec-5 9
